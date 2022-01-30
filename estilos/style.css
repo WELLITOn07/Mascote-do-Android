@@ -22,6 +22,9 @@
     margin: 0px;
     padding: 0px;
 }
+abbr {
+    text-decoration: none;
+}
 body {
    background-color: var(--cor0); 
    font-family: var(--font-padrao);
